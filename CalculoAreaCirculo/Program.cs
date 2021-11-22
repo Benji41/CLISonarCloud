@@ -18,7 +18,7 @@ namespace CalculoAreaCirculo
             radio = (float)Convert.ToDouble(Console.ReadLine());
             area = radio * Math.PI / 2;
             Console.WriteLine("Area del circulo:"+area);
-            area * *2;
+            //algo#2
             Console.ReadLine();
         }
     }
